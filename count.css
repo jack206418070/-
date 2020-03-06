@@ -1,0 +1,38 @@
+body{
+    width: 900px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header{
+    width: auto;
+    height: auto;
+    margin: 30px auto;
+}
+
+header h1{
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.content{
+    width: 280px;
+    height: auto;
+    margin: 100px auto;
+}
+
+
+input , label{
+    margin: 15px 5px;
+}
+
+
+textarea{
+    margin: 15px 5px;
+}
+
+
+button{
+    margin-left: 230px;
+}
